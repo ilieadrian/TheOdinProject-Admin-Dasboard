@@ -45,6 +45,7 @@ body {
 
 svg {
     max-width: 50px;
+    fill: white;
 }
 
 /* Footer */
